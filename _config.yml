@@ -1,6 +1,6 @@
-locale: "en-US"
-title: Strata # Title of your site
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+locale: "tr-TR"
+title: My Personal Github Page # Title of your site
+url: "https://muaz742.github.io/" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
@@ -12,15 +12,15 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name: Your Name
-  email: your-email@domain.com
-  twitter: # twitter username without the @ symbol
+  name: Muaz Yediyüzkırkiki
+  email: bilgi@muaz742.com
+  twitter: muaz742 # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Strata Reloaded Template
+  name: My Personal Github Page
   links:
-    - https://github.com/comfusion/strata-reloaded-jekyll-template
+    - https://muaz742.github.io/
 
 permalink: pretty
 
