@@ -1,3 +1,11 @@
+- name: Twitter
+  link: 'https://www.twitter.com/muaz742'
+  social_icon: Twitter
+  new_window: true
+- name: Instagram
+  link: 'https://www.instagram.com/muaz742'
+  social_icon: Instagram
+  new_window: true
 - name: Facebook
   link: 'https://www.facebook.com/muaz742'
   social_icon: Facebook
