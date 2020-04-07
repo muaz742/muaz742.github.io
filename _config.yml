@@ -2,7 +2,7 @@ locale: "tr-TR"
 title: Muaz742's Wonderland # Title of your site
 url: "https://muaz742.github.io/" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
-google_analytics_key: ""
+google_analytics_key: "UA-112846050-5"
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
