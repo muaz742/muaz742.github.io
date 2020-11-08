@@ -25,9 +25,9 @@ Dördüncü adımda kodlarımı geliştiriciler için yalınlaştırdım. Aynı 
 
 Python dilinin [girintiler ile katmanlar oluşturma][indentasyonPython] gibi diğer dillere olan yazım farklarının verdiği tedirginliğe rağmen yalınlığıyla ayrı bir çekiciliği var. Hoş bir deneyimdi. Eğer sen de kodlara göz atmak veya birkaç parça geliştirme eklemek istersen **yazının başlangıcındaki bağlantıdan** ilgili depoya ulaşabilirsin.
 
-[depo]:(https://github.com/muaz742/se-se-ses-bir-ki) "Se se ses bir ki GitHub Deposu"
-[gtts]:(https://pypi.org/project/gTTS/) "gTTS · PyPI"
-[kaynak0]:(https://medium.com/bili%C5%9Fim-hareketi/python-ile-ses-tan%C4%B1ma-uygulamas%C4%B1-olu%C5%9Fturma-3d0d972c62a6) "Python ile Ses Tanıma Uygulaması Oluşturma"
-[kaynak1]:(https://www.thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python) "How to Convert Speech to Text in Python"
-[readmeDepo]:(https://github.com/muaz742/se-se-ses-bir-ki/blob/main/README.md) "Beni Oku - Se Se Ses Bir Ki"
-[indentasyonPython]:(https://www.w3schools.com/python/gloss_python_indentation.asp) "Python Indentation"
+[depo]:https://github.com/muaz742/se-se-ses-bir-ki "Se se ses bir ki GitHub Deposu"
+[gtts]:https://pypi.org/project/gTTS/ "gTTS · PyPI"
+[kaynak0]:https://medium.com/bili%C5%9Fim-hareketi/python-ile-ses-tan%C4%B1ma-uygulamas%C4%B1-olu%C5%9Fturma-3d0d972c62a6 "Python ile Ses Tanıma Uygulaması Oluşturma"
+[kaynak1]:https://www.thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python "How to Convert Speech to Text in Python"
+[readmeDepo]:https://github.com/muaz742/se-se-ses-bir-ki/blob/main/README.md "Beni Oku - Se Se Ses Bir Ki"
+[indentasyonPython]:https://www.w3schools.com/python/gloss_python_indentation.asp "Python Indentation"
